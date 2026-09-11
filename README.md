@@ -22,3 +22,5 @@ O sistema realiza sorteios de palavras a partir de matrizes estáticas de caract
 2. Acesse a pasta: `cd jogo-da-forca-c`
 3. Compile o código: `gcc main.c -o forca`
 4. Execute: `./forca` (Linux/macOS) ou `forca.exe` (Windows)
+
+https://studio.youtube.com/video/Wi-60TJYJOs/edit
